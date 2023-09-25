@@ -7,9 +7,11 @@ https://forums.libretro.com/t/new-crt-shader-from-guest-crt-guest-advanced-updat
 Installation guide video:
 https://youtu.be/G42g23ONYsI
 
+
 20230925
 - RENAMED "Retro Crisis GDV-NTSC Arcade.slangp" TO "Retro Crisis GDV-NTSC Arcade - Curved.slangp"
 - ADDED "Retro Crisis GDV-NTSC Arcade - Flat.slangp"
+
 
 20230921
 - ADDED "Retro Crisis GDV-NTSC Arcade.slangp"
