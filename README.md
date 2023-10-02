@@ -8,10 +8,17 @@ Installation guide video:
 https://youtu.be/G42g23ONYsI
 
 
+20231002
+- Master System shader preset showcase - https://youtu.be/sF7n8w9Jx-U
+- ADDED "Retro Crisis GDV-NTSC Master System - Curved"
+- ADDED "Retro Crisis GDV-NTSC Master System - Flat"
+
+
 20230925
 - RENAMED "Retro Crisis GDV-NTSC Arcade.slangp" TO "Retro Crisis GDV-NTSC Arcade - Curved.slangp"
 - ADDED "Retro Crisis GDV-NTSC Arcade - Flat.slangp"
 
 
 20230921
+- Arcade shader preset showcase - https://youtu.be/G42g23ONYsI
 - ADDED "Retro Crisis GDV-NTSC Arcade.slangp"
