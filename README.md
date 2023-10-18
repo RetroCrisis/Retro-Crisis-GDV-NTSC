@@ -11,7 +11,7 @@ Installation guide video:
 20231018
 - Mega Drive shader preset showcase - [https://youtu.be/pd75fzm7sBc]
 - ADDED "Retro Crisis GDV-NTSC Mega Drive - Curved"
-- ADDED "Retro Crisis GDV-NTSC Drive - Flat"
+- ADDED "Retro Crisis GDV-NTSC Mega Drive - Flat"
 
 
 20231002
