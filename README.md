@@ -8,23 +8,29 @@ Installation guide video:
 [https://youtu.be/G42g23ONYsI]
 
 
-20231018
+2023/11/05
+- Super Nintendo shader preset showcase - [https://youtu.be/qITkj12QNjo]
+- ADDED "Retro Crisis GDV-NTSC Super Nintendo - Curved"
+- ADDED "Retro Crisis GDV-NTSC Super Nintendo - Flat"
+
+
+2023/10/18
 - Mega Drive shader preset showcase - [https://youtu.be/pd75fzm7sBc]
 - ADDED "Retro Crisis GDV-NTSC Mega Drive - Curved"
 - ADDED "Retro Crisis GDV-NTSC Mega Drive - Flat"
 
 
-20231002
+2023/10/02
 - Master System shader preset showcase - [https://youtu.be/sF7n8w9Jx-U]
 - ADDED "Retro Crisis GDV-NTSC Master System - Curved"
 - ADDED "Retro Crisis GDV-NTSC Master System - Flat"
 
 
-20230925
+2023/09/25
 - RENAMED "Retro Crisis GDV-NTSC Arcade.slangp" TO "Retro Crisis GDV-NTSC Arcade - Curved.slangp"
 - ADDED "Retro Crisis GDV-NTSC Arcade - Flat.slangp"
 
 
-20230921
+2023/09/21
 - Arcade shader preset showcase - [https://youtu.be/G42g23ONYsI]
 - ADDED "Retro Crisis GDV-NTSC Arcade.slangp"
