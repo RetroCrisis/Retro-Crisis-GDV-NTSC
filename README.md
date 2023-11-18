@@ -9,6 +9,18 @@ Please note, all the presets were configured in sRGB at 4K display resolution on
 Installation guide video:
 [https://youtu.be/G42g23ONYsI]
 
+2023/11/18
+- PlayStation preset showcase - [https://youtu.be/_oM1SCv48-E]
+- ADDED "RC GDV-NTSC - 4K - Curved - PlayStation"
+- ADDED "RC GDV-NTSC - 4K - Flat - PlayStation - Flat"
+- RENAMED "Retro Crisis GDV-NTSC Super Nintendo - Curved" TO "RC GDV-NTSC - 4K - Curved - Super Nintendo"
+- RENAMED "Retro Crisis GDV-NTSC Super Nintendo - Flat" TO "RC GDV-NTSC - 4K - Flat - Super Nintendo"
+- RENAMED "Retro Crisis GDV-NTSC Mega Drive - Curved" TO "RC GDV-NTSC - 4K - Curved - Mega Drive"
+- RENAMED "Retro Crisis GDV-NTSC Mega Drive - Flat" TO "RC GDV-NTSC - 4K - Flat - Mega Drive"
+- RENAMED "Retro Crisis GDV-NTSC Master System - Curved" TO "RC GDV-NTSC - 4K - Curved - Master System"
+- RENAMED "Retro Crisis GDV-NTSC Master System - Flat" TO "RC GDV-NTSC - 4K - Flat - Master System"
+- RENAMED "Retro Crisis GDV-NTSC Arcade - Curved" TO "RC GDV-NTSC - 4K - Curved - Arcade"
+- RENAMED "Retro Crisis GDV-NTSC Arcade - Flat.slangp" TO "RC GDV-NTSC - 4K - Flat - Arcade"
 
 2023/11/05
 - Super Nintendo shader preset showcase - [https://youtu.be/qITkj12QNjo]
