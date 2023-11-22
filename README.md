@@ -9,6 +9,24 @@ Please note, all the presets were configured in sRGB at 4K display resolution on
 Installation guide video:
 [https://youtu.be/G42g23ONYsI]
 
+
+Please delete old packs before installing this pack
+- PlayStation preset showcase - [https://youtu.be/_oM1SCv48-E]
+- RENAMED "RC GDV-NTSC - 4K - Curved - PlayStation" TO "RC GDV-NTSC - 4K - Curved - PlayStation - Dirty"
+- RENAMED "RC GDV-NTSC - 4K - Flat - PlayStation" TO "RC GDV-NTSC - 4K - Flat - PlayStation - Dirty"
+- Added "RC GDV-NTSC - 1080 - Curved - Arcade
+- Added "RC GDV-NTSC - 1080 - Curved - Master System
+- Added "RC GDV-NTSC - 1080 - Curved - Mega Drive
+- Added "RC GDV-NTSC - 1080 - Curved - PlayStation - Clean
+- Added "RC GDV-NTSC - 1080 - Curved - PlayStation - Dirty
+- Added "RC GDV-NTSC - 1080 - Curved - Super Nintendo
+- Added "RC GDV-NTSC - 1080 - Flat - Arcade
+- Added "RC GDV-NTSC - 1080 - Flat - Master System
+- Added "RC GDV-NTSC - 1080 - Flat - Mega Drive
+- Added "RC GDV-NTSC - 1080 - Flat - PlayStation - Clean
+- Added "RC GDV-NTSC - 1080 - Flat - PlayStation - Dirty
+- Added "RC GDV-NTSC - 1080 - Flat - Super Nintendo
+
 2023/11/18
 - PlayStation preset showcase - [https://youtu.be/_oM1SCv48-E]
 - ADDED "RC GDV-NTSC - 4K - Curved - PlayStation"
