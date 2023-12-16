@@ -9,8 +9,9 @@ Please note, all the presets were configured in sRGB at 4K display resolution on
 Installation guide video:
 [https://youtu.be/G42g23ONYsI]
 
+IMPORTANT - **Please delete old packs before installing this pack**
+
 2023/12/16
-Please delete old packs before installing this pack
 - NES Preset showcase [https://youtu.be/hLkuCar5Byk]
 - Presets divided into subfolders (4K, 1080P, Flat, Curved)
 - Preset naming simplified
@@ -18,7 +19,6 @@ Please delete old packs before installing this pack
 - Added "RC GDV-NTSC - NES - Dirty"
 
 2023/11/22
-Please delete old packs before installing this pack
 - PlayStation preset showcase - [https://youtu.be/_oM1SCv48-E]
 - RENAMED "RC GDV-NTSC - 4K - Curved - PlayStation" TO "RC GDV-NTSC - 4K - Curved - PlayStation - Dirty"
 - RENAMED "RC GDV-NTSC - 4K - Flat - PlayStation" TO "RC GDV-NTSC - 4K - Flat - PlayStation - Dirty"
