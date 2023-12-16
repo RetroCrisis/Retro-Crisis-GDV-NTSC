@@ -9,7 +9,7 @@ Please note, all the presets were configured in sRGB at 4K display resolution on
 Installation guide video:
 [https://youtu.be/G42g23ONYsI]
 
-IMPORTANT - **Please delete old packs before installing this pack**
+IMPORTANT - **Please delete old packs before installing a new update pack**
 
 2023/12/16
 - NES Preset showcase [https://youtu.be/hLkuCar5Byk]
