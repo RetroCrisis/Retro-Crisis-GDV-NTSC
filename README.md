@@ -11,6 +11,12 @@ Installation guide video:
 
 IMPORTANT - **Please delete old packs before installing a new update pack**
 
+2024/01/13
+- Arcade Clean Preset showcase [https://youtu.be/nerQXmfpvlo]
+- Renamed "RC GDV-NTSC - Arcade" TO "RC GDV-NTSC - Arcade - Old"
+- Added "RC GDV-NTSC - Arcade - Clean"
+- Added "RC GDV-NTSC - Arcade - Dirty"
+
 2023/12/16
 - NES Preset showcase [https://youtu.be/hLkuCar5Byk]
 - Presets divided into subfolders (4K, 1080P, Flat, Curved)
