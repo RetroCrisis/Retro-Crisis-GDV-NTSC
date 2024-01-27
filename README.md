@@ -11,6 +11,10 @@ Installation guide video:
 
 IMPORTANT - **Please delete old packs before installing a new update pack**
 
+2024/01/27
+- Sega Saturn Preset showcase [https://youtu.be/hVYVkhhDAyQ]
+- Added "RC GDV-NTSC - Saturn"
+
 2024/01/13
 - Arcade Clean Preset showcase [https://youtu.be/nerQXmfpvlo]
 - Renamed "RC GDV-NTSC - Arcade" TO "RC GDV-NTSC - Arcade - Old"
