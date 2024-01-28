@@ -9,27 +9,42 @@ Please note, all the presets were configured in sRGB at 4K display resolution on
 Installation guide video:
 [https://youtu.be/G42g23ONYsI]
 
+
+
+_Shader Preset YouTube Showcases_
+- Sega Saturn [https://youtu.be/hVYVkhhDAyQ]
+- Arcade (Update 1) [https://youtu.be/nerQXmfpvlo]
+- Nintendo Entertainment System (NES) [https://youtu.be/hLkuCar5Byk]
+- Sony PlayStation - [https://youtu.be/_oM1SCv48-E]
+- Super Nintendo Entertainment System (SNES) / Super Famicom (SFC) - [https://youtu.be/qITkj12QNjo]
+- Sega Mega Drive / Genesis - [https://youtu.be/pd75fzm7sBc]
+- Sega Master System / Mark III - [https://youtu.be/sF7n8w9Jx-U]
+- Arcade - [https://youtu.be/G42g23ONYsI]
+
+
+
 IMPORTANT - **Please delete old packs before installing a new update pack**
 
+
+
+_UPDATE LOG_
+
 2024/01/27
-- Sega Saturn Preset showcase [https://youtu.be/hVYVkhhDAyQ]
 - Added "RC GDV-NTSC - Saturn"
+- Steam Deck 720p presets added
 
 2024/01/13
-- Arcade Clean Preset showcase [https://youtu.be/nerQXmfpvlo]
 - Renamed "RC GDV-NTSC - Arcade" TO "RC GDV-NTSC - Arcade - Old"
 - Added "RC GDV-NTSC - Arcade - Clean"
 - Added "RC GDV-NTSC - Arcade - Dirty"
 
 2023/12/16
-- NES Preset showcase [https://youtu.be/hLkuCar5Byk]
 - Presets divided into subfolders (4K, 1080P, Flat, Curved)
 - Preset naming simplified
 - Added "RC GDV-NTSC - NES - Clean"
 - Added "RC GDV-NTSC - NES - Dirty"
 
 2023/11/22
-- PlayStation preset showcase - [https://youtu.be/_oM1SCv48-E]
 - RENAMED "RC GDV-NTSC - 4K - Curved - PlayStation" TO "RC GDV-NTSC - 4K - Curved - PlayStation - Dirty"
 - RENAMED "RC GDV-NTSC - 4K - Flat - PlayStation" TO "RC GDV-NTSC - 4K - Flat - PlayStation - Dirty"
 - Added "RC GDV-NTSC - 1080 - Curved - Arcade
@@ -46,7 +61,6 @@ IMPORTANT - **Please delete old packs before installing a new update pack**
 - Added "RC GDV-NTSC - 1080 - Flat - Super Nintendo
 
 2023/11/18
-- PlayStation preset showcase - [https://youtu.be/_oM1SCv48-E]
 - ADDED "RC GDV-NTSC - 4K - Curved - PlayStation"
 - ADDED "RC GDV-NTSC - 4K - Flat - PlayStation - Flat"
 - RENAMED "Retro Crisis GDV-NTSC Super Nintendo - Curved" TO "RC GDV-NTSC - 4K - Curved - Super Nintendo"
@@ -59,28 +73,20 @@ IMPORTANT - **Please delete old packs before installing a new update pack**
 - RENAMED "Retro Crisis GDV-NTSC Arcade - Flat.slangp" TO "RC GDV-NTSC - 4K - Flat - Arcade"
 
 2023/11/05
-- Super Nintendo shader preset showcase - [https://youtu.be/qITkj12QNjo]
 - ADDED "Retro Crisis GDV-NTSC Super Nintendo - Curved"
 - ADDED "Retro Crisis GDV-NTSC Super Nintendo - Flat"
 
-
 2023/10/18
-- Mega Drive shader preset showcase - [https://youtu.be/pd75fzm7sBc]
 - ADDED "Retro Crisis GDV-NTSC Mega Drive - Curved"
 - ADDED "Retro Crisis GDV-NTSC Mega Drive - Flat"
 
-
 2023/10/02
-- Master System shader preset showcase - [https://youtu.be/sF7n8w9Jx-U]
 - ADDED "Retro Crisis GDV-NTSC Master System - Curved"
 - ADDED "Retro Crisis GDV-NTSC Master System - Flat"
-
 
 2023/09/25
 - RENAMED "Retro Crisis GDV-NTSC Arcade.slangp" TO "Retro Crisis GDV-NTSC Arcade - Curved.slangp"
 - ADDED "Retro Crisis GDV-NTSC Arcade - Flat.slangp"
 
-
 2023/09/21
-- Arcade shader preset showcase - [https://youtu.be/G42g23ONYsI]
 - ADDED "Retro Crisis GDV-NTSC Arcade.slangp"
