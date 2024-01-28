@@ -4,7 +4,9 @@ Retro Crisis GDV-NTSC, is a CRT shader preset for Libretro. It is based on Guest
 Follow this link for more information about the Guest Advanced shader:
 [https://forums.libretro.com/t/new-crt-shader-from-guest-crt-guest-advanced-updates/25444]
 
-Please note, all the presets were configured in sRGB at 4K display resolution on a 20" screen. Presets could potentially look worse on larger screens in some instances.
+Displays used when configuring presets:
+2024/01/27 - Presets are configured in sRGB at 4K display resolution on a 65" OLED display.
+2023/09/21 - Presets were configured in sRGB at 4K display resolution on a 20" LED display.
 
 Installation guide video:
 [https://youtu.be/G42g23ONYsI]
