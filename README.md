@@ -13,7 +13,7 @@ Installation guide video:
 
 
 
-_Shader Preset YouTube Showcases_
+**_SHADER PRESET SHOWCASE VIDEOS_**
 - Sega Saturn [https://youtu.be/hVYVkhhDAyQ]
 - Arcade (Update 1) [https://youtu.be/nerQXmfpvlo]
 - Nintendo Entertainment System (NES) & Famicom (FC) [https://youtu.be/hLkuCar5Byk]
@@ -29,7 +29,7 @@ IMPORTANT - **Please delete old packs before installing a new update pack**
 
 
 
-_UPDATE LOG_
+**_UPDATE LOG_**
 
 2024/01/27
 - Added "RC GDV-NTSC - Saturn"
