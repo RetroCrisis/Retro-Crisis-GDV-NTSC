@@ -14,11 +14,11 @@ Installation guide video:
 _Shader Preset YouTube Showcases_
 - Sega Saturn [https://youtu.be/hVYVkhhDAyQ]
 - Arcade (Update 1) [https://youtu.be/nerQXmfpvlo]
-- Nintendo Entertainment System (NES) [https://youtu.be/hLkuCar5Byk]
-- Sony PlayStation - [https://youtu.be/_oM1SCv48-E]
-- Super Nintendo Entertainment System (SNES) / Super Famicom (SFC) - [https://youtu.be/qITkj12QNjo]
-- Sega Mega Drive / Genesis - [https://youtu.be/pd75fzm7sBc]
-- Sega Master System / Mark III - [https://youtu.be/sF7n8w9Jx-U]
+- Nintendo Entertainment System (NES) & Famicom (FC) [https://youtu.be/hLkuCar5Byk]
+- Sony PlayStation (PS1) - [https://youtu.be/_oM1SCv48-E]
+- Super Nintendo Entertainment System (SNES) & Super Famicom (SFC) - [https://youtu.be/qITkj12QNjo]
+- Sega Mega Drive & Genesis - [https://youtu.be/pd75fzm7sBc]
+- Sega Master System & Mark III - [https://youtu.be/sF7n8w9Jx-U]
 - Arcade - [https://youtu.be/G42g23ONYsI]
 
 
