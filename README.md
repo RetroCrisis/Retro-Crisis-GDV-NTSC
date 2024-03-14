@@ -21,7 +21,7 @@ Installation guide video:
 - Sony PlayStation (PS1) - [https://youtu.be/_oM1SCv48-E]
 - Super Nintendo Entertainment System (SNES) & Super Famicom (SFC) - [https://youtu.be/qITkj12QNjo]
 - Sega Mega Drive & Genesis - [https://youtu.be/pd75fzm7sBc]
-- Sega Master System & Mark III - [https://youtu.be/sF7n8w9Jx-U]
+- Sega Master System & Mark III - [https://youtu.be/KAc2EOeN_fU]
 - Arcade - [https://youtu.be/G42g23ONYsI]
 
 
@@ -31,6 +31,10 @@ IMPORTANT - **Please delete old packs before installing a new update pack**
 
 
 **_UPDATE LOG_**
+
+2024/03/24
+- Added "RC GDV-NTSC - Master System - New"
+- Renamed "RC GDV-NTSC - Master System" to "RC GDV-NTSC - Master System - Old"
 
 2024/02/19
 - Added "RC GDV-NTSC - Nintendo 64"
