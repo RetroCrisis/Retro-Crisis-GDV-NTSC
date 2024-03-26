@@ -14,15 +14,15 @@ Installation guide video:
 
 
 **_SHADER PRESET SHOWCASE VIDEOS_**
-- Nintendo 64 [https://youtu.be/w4gtlKrMvBk]
-- Sega Saturn [https://youtu.be/hVYVkhhDAyQ]
-- Arcade (Update 1) [https://youtu.be/nerQXmfpvlo]
-- Nintendo Entertainment System (NES) & Famicom (FC) [https://youtu.be/hLkuCar5Byk]
 - Sony PlayStation (PS1) - [https://youtu.be/_oM1SCv48-E]
 - Super Nintendo Entertainment System (SNES) & Super Famicom (SFC) - [https://youtu.be/qITkj12QNjo]
-- Sega Mega Drive & Genesis - [https://youtu.be/pd75fzm7sBc]
+- Nintendo Entertainment System (NES) & Famicom (FC) [https://youtu.be/hLkuCar5Byk]
+- Nintendo 64 [https://youtu.be/w4gtlKrMvBk]
+- Sega Mega Drive & Genesis - [https://youtu.be/S6x0-TWwEsM]
 - Sega Master System & Mark III - [https://youtu.be/KAc2EOeN_fU]
+- Sega Saturn [https://youtu.be/hVYVkhhDAyQ]
 - Arcade - [https://youtu.be/G42g23ONYsI]
+- Arcade (Update 1) [https://youtu.be/nerQXmfpvlo]
 
 
 
@@ -32,7 +32,11 @@ IMPORTANT - **Please delete old packs before installing a new update pack**
 
 **_UPDATE LOG_**
 
-2024/03/24
+2024/03/26
+- Added "RC GDV-NTSC - Mega Drive - Clean"
+- Added "RC GDV-NTSC - Mega Drive - Dirty"
+
+2024/03/19
 - Added "RC GDV-NTSC - Master System - New"
 - Renamed "RC GDV-NTSC - Master System" to "RC GDV-NTSC - Master System - Old"
 
