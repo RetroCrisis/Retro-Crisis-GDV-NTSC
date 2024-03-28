@@ -13,7 +13,7 @@ Special thanks to the below for the help with all my annoying questions since th
 * [HyperSpaceMadness](https://forums.libretro.com/u/HyperspaceMadness)
 * [HunterK](https://forums.libretro.com/u/hunterk)
 ___
-**YouTube Video Showcases for each shader preset**
+**Showcases**
 
 2024.03.26 - [Sega Mega Drive](https://youtu.be/S6x0-TWwEsM) v2.0
 
