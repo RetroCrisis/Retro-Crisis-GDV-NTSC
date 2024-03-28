@@ -32,6 +32,11 @@ IMPORTANT - **Please delete old packs before installing a new update pack**
 
 **_UPDATE LOG_**
 
+2024/03/28
+"Mega Drive Clean" Preset updated
+- The Green tint has been removed
+- Scaling Issue has been resolved (thanks to youtube.com/@Visman33 for helping identify issue)
+
 2024/03/26
 - Added "RC GDV-NTSC - Mega Drive - Clean"
 - Added "RC GDV-NTSC - Mega Drive - Dirty"
