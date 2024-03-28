@@ -7,11 +7,12 @@ ___
 [**Video Installation Guide**](https://youtu.be/G42g23ONYsI)
 ___
 Special thanks to the below for the help with all my annoying questions since the begining of my project:
-* [Guest.R](https://forums.libretro.com/u/guest.r)
-* [CyberLab](https://forums.libretro.com/u/Cyber)
-* [Sonkun](https://forums.libretro.com/u/sonkun)
-* [HyperSpaceMadness](https://forums.libretro.com/u/HyperspaceMadness)
-* [HunterK](https://forums.libretro.com/u/hunterk)
+
+[Guest.R](https://forums.libretro.com/u/guest.r), 
+[CyberLab](https://forums.libretro.com/u/Cyber), 
+[Sonkun](https://forums.libretro.com/u/sonkun), 
+[HyperSpaceMadness](https://forums.libretro.com/u/HyperspaceMadness) & 
+[HunterK](https://forums.libretro.com/u/hunterk)
 ___
 **Showcases**
 
