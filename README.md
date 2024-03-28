@@ -1,111 +1,38 @@
-# Retro-Crisis-GDV-NTSC
-Retro Crisis GDV-NTSC, is a CRT shader preset for Libretro. It is based on Guest Advanced NTSC shader, which is authored by Guest R.
+**RETRO CRISIS GDV-NTSC**
+___
+Retro Crisis GDV-NTSC is a CRT shader preset for Libretro. It is based on [Guest Advanced NTSC](https://forums.libretro.com/t/new-crt-shader-from-guest-crt-guest-advanced-updates/25444) shader, which is authored by [Guest R](https://forums.libretro.com/u/guest.r).
 
-Follow this link for more information about the Guest Advanced shader:
-[https://forums.libretro.com/t/new-crt-shader-from-guest-crt-guest-advanced-updates/25444]
+While the pack contains **720p** and **1080p** presets, the primary focus will always be the **4K** presets.
+___
+[**Video Installation Guide**](https://youtu.be/G42g23ONYsI)
+___
+Special thanks to the below for the help with all my annoying questions since the begining of my project:
+* [Guest.R](https://forums.libretro.com/u/guest.r)
+* [CyberLab](https://forums.libretro.com/u/Cyber)
+* [Sonkun](https://forums.libretro.com/u/sonkun)
+* [HyperSpaceMadness](https://forums.libretro.com/u/HyperspaceMadness)
+* [HunterK](https://forums.libretro.com/u/hunterk)
+___
+**YouTube Video Showcases for each shader preset**
 
-Displays used when configuring presets:
-- 2024/01/27 - Presets are configured in sRGB at 4K display resolution on a 65" OLED display.
-- 2023/09/21 - Presets were configured in sRGB at 4K display resolution on a 20" LED display.
+2024.03.26 - [Sega Mega Drive](https://youtu.be/S6x0-TWwEsM) v2.0
 
-Installation guide video:
-[https://youtu.be/G42g23ONYsI]
+2024.03.14 - [Sega Master System](https://youtu.be/KAc2EOeN_fU) v2.0
 
+2024.02.19 - [Nintendo 64](https://youtu.be/w4gtlKrMvBk) v1.0
 
+2024.01.27 - [Sega Saturn](https://youtu.be/hVYVkhhDAyQ) v1.0
 
-**_SHADER PRESET SHOWCASE VIDEOS_**
-- Sony PlayStation (PS1) - [https://youtu.be/_oM1SCv48-E]
-- Super Nintendo Entertainment System (SNES) & Super Famicom (SFC) - [https://youtu.be/qITkj12QNjo]
-- Nintendo Entertainment System (NES) & Famicom (FC) [https://youtu.be/hLkuCar5Byk]
-- Nintendo 64 [https://youtu.be/w4gtlKrMvBk]
-- Sega Mega Drive & Genesis - [https://youtu.be/S6x0-TWwEsM]
-- Sega Master System & Mark III - [https://youtu.be/KAc2EOeN_fU]
-- Sega Saturn [https://youtu.be/hVYVkhhDAyQ]
-- Arcade - [https://youtu.be/G42g23ONYsI]
-- Arcade (Update 1) [https://youtu.be/nerQXmfpvlo]
+2024.01.13 - [Arcade](https://youtu.be/nerQXmfpvlo) v2.0
 
+2023.12.16 - [Nintendo Entertainment System](https://youtu.be/hLkuCar5Byk) v1.0
 
+2023.11.18 - [Sony PlayStation](https://youtu.be/_oM1SCv48-E) v1.0
 
-IMPORTANT - **Please delete old packs before installing a new update pack**
+2023.11.05 - [Super Nintendo](https://youtu.be/qITkj12QNjo) v1.0
 
+2023.10.18 - [Sega Mega Drive](https://youtu.be/pd75fzm7sBc) v1.0
 
+2023.10.02 - [Sega Master System](https://youtu.be/sF7n8w9Jx-U) v1.0
 
-**_UPDATE LOG_**
-
-2024/03/28
-"Mega Drive Clean" Preset updated
-- The Green tint has been removed
-- Scaling Issue has been resolved (thanks to youtube.com/@Visman33 for helping identify issue)
-
-2024/03/26
-- Added "RC GDV-NTSC - Mega Drive - Clean"
-- Added "RC GDV-NTSC - Mega Drive - Dirty"
-
-2024/03/19
-- Added "RC GDV-NTSC - Master System - New"
-- Renamed "RC GDV-NTSC - Master System" to "RC GDV-NTSC - Master System - Old"
-
-2024/02/19
-- Added "RC GDV-NTSC - Nintendo 64"
-
-2024/01/27
-- Added "RC GDV-NTSC - Saturn"
-- Steam Deck 720p presets added
-
-2024/01/13
-- Renamed "RC GDV-NTSC - Arcade" TO "RC GDV-NTSC - Arcade - Old"
-- Added "RC GDV-NTSC - Arcade - Clean"
-- Added "RC GDV-NTSC - Arcade - Dirty"
-
-2023/12/16
-- Presets divided into subfolders (4K, 1080P, Flat, Curved)
-- Preset naming simplified
-- Added "RC GDV-NTSC - NES - Clean"
-- Added "RC GDV-NTSC - NES - Dirty"
-
-2023/11/22
-- RENAMED "RC GDV-NTSC - 4K - Curved - PlayStation" TO "RC GDV-NTSC - 4K - Curved - PlayStation - Dirty"
-- RENAMED "RC GDV-NTSC - 4K - Flat - PlayStation" TO "RC GDV-NTSC - 4K - Flat - PlayStation - Dirty"
-- Added "RC GDV-NTSC - 1080 - Curved - Arcade
-- Added "RC GDV-NTSC - 1080 - Curved - Master System
-- Added "RC GDV-NTSC - 1080 - Curved - Mega Drive
-- Added "RC GDV-NTSC - 1080 - Curved - PlayStation - Clean
-- Added "RC GDV-NTSC - 1080 - Curved - PlayStation - Dirty
-- Added "RC GDV-NTSC - 1080 - Curved - Super Nintendo
-- Added "RC GDV-NTSC - 1080 - Flat - Arcade
-- Added "RC GDV-NTSC - 1080 - Flat - Master System
-- Added "RC GDV-NTSC - 1080 - Flat - Mega Drive
-- Added "RC GDV-NTSC - 1080 - Flat - PlayStation - Clean
-- Added "RC GDV-NTSC - 1080 - Flat - PlayStation - Dirty
-- Added "RC GDV-NTSC - 1080 - Flat - Super Nintendo
-
-2023/11/18
-- ADDED "RC GDV-NTSC - 4K - Curved - PlayStation"
-- ADDED "RC GDV-NTSC - 4K - Flat - PlayStation - Flat"
-- RENAMED "Retro Crisis GDV-NTSC Super Nintendo - Curved" TO "RC GDV-NTSC - 4K - Curved - Super Nintendo"
-- RENAMED "Retro Crisis GDV-NTSC Super Nintendo - Flat" TO "RC GDV-NTSC - 4K - Flat - Super Nintendo"
-- RENAMED "Retro Crisis GDV-NTSC Mega Drive - Curved" TO "RC GDV-NTSC - 4K - Curved - Mega Drive"
-- RENAMED "Retro Crisis GDV-NTSC Mega Drive - Flat" TO "RC GDV-NTSC - 4K - Flat - Mega Drive"
-- RENAMED "Retro Crisis GDV-NTSC Master System - Curved" TO "RC GDV-NTSC - 4K - Curved - Master System"
-- RENAMED "Retro Crisis GDV-NTSC Master System - Flat" TO "RC GDV-NTSC - 4K - Flat - Master System"
-- RENAMED "Retro Crisis GDV-NTSC Arcade - Curved" TO "RC GDV-NTSC - 4K - Curved - Arcade"
-- RENAMED "Retro Crisis GDV-NTSC Arcade - Flat.slangp" TO "RC GDV-NTSC - 4K - Flat - Arcade"
-
-2023/11/05
-- ADDED "Retro Crisis GDV-NTSC Super Nintendo - Curved"
-- ADDED "Retro Crisis GDV-NTSC Super Nintendo - Flat"
-
-2023/10/18
-- ADDED "Retro Crisis GDV-NTSC Mega Drive - Curved"
-- ADDED "Retro Crisis GDV-NTSC Mega Drive - Flat"
-
-2023/10/02
-- ADDED "Retro Crisis GDV-NTSC Master System - Curved"
-- ADDED "Retro Crisis GDV-NTSC Master System - Flat"
-
-2023/09/25
-- RENAMED "Retro Crisis GDV-NTSC Arcade.slangp" TO "Retro Crisis GDV-NTSC Arcade - Curved.slangp"
-- ADDED "Retro Crisis GDV-NTSC Arcade - Flat.slangp"
-
-2023/09/21
-- ADDED "Retro Crisis GDV-NTSC Arcade.slangp"
+2023.09.22 - [Arcade](https://youtu.be/G42g23ONYsI) v1.0
