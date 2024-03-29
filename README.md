@@ -1,12 +1,12 @@
 **RETRO CRISIS GDV-NTSC**
 ___
-Retro Crisis GDV-NTSC is a CRT shader preset for Libretro. It is based on [Guest Advanced NTSC](https://forums.libretro.com/t/new-crt-shader-from-guest-crt-guest-advanced-updates/25444) shader, which is authored by [Guest R](https://forums.libretro.com/u/guest.r).
+Retro Crisis GDV-NTSC is a CRT shader preset for Libretro. It is based on thr [Guest Advanced NTSC](https://forums.libretro.com/t/new-crt-shader-from-guest-crt-guest-advanced-updates/25444) shader, which is authored by [Guest R](https://forums.libretro.com/u/guest.r).
 
 While the pack contains **720p** and **1080p** presets, the primary focus will always be the **4K** presets.
 ___
-[**Video Installation Guide**](https://youtu.be/G42g23ONYsI)
+[**Installation Guide**](https://youtu.be/G42g23ONYsI)
 ___
-Special thanks to the below for the help with all my annoying questions since the begining of my project:
+Special Thanks
 
 [Guest.R](https://forums.libretro.com/u/guest.r), 
 [CyberLab](https://forums.libretro.com/u/Cyber), 
