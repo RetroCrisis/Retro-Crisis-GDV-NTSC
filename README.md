@@ -16,6 +16,8 @@ Special Thanks
 ___
 **Showcases**
 
+2024.04.04 - [Sega Dreamcast](https://youtu.be/DUSEw8m0iXE) v1
+
 2024.03.26 - [Sega Mega Drive](https://youtu.be/S6x0-TWwEsM) v2
 
 2024.03.14 - [Sega Master System](https://youtu.be/KAc2EOeN_fU) v2
