@@ -16,6 +16,8 @@ Special Thanks
 ___
 **Showcases**
 
+2024.04.16 - [Super Game Boy Color](https://youtu.be/Jjck_-w04Gs) v1
+
 2024.04.04 - [Sega Dreamcast](https://youtu.be/DUSEw8m0iXE) v1
 
 2024.03.26 - [Sega Mega Drive](https://youtu.be/S6x0-TWwEsM) v2
