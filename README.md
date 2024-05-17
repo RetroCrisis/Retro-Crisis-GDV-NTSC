@@ -4,7 +4,8 @@ Retro Crisis GDV-NTSC is a CRT shader preset for Libretro. It is based on the [G
 
 While the pack contains **720p** and **1080p** presets, the primary focus will always be the **4K** presets.
 ___
-[**Installation Guide**](https://youtu.be/G42g23ONYsI)
+[**Installation Guide for PC**](https://youtu.be/G42g23ONYsI)
+[**Installation Guide for iOS**](https://youtu.be/2L3fgoabkq0)
 ___
 Special Thanks
 
