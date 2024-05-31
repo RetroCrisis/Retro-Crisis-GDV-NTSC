@@ -18,6 +18,8 @@ Special Thanks
 ___
 **Showcases**
 
+2024.05.31 - [Super Nintendo](https://youtu.be/edZ3drLP3yU) v2
+
 2024.05.05 - [Game Boy Advance](https://youtu.be/Yd_TqCT70sY) v1
 
 2024.04.16 - [Super Game Boy Color](https://youtu.be/Jjck_-w04Gs) v1
