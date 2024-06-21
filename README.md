@@ -6,7 +6,10 @@ While the pack contains **720p** and **1080p** presets, the primary focus will a
 ___
 [**Installation Guide for PC**](https://youtu.be/G42g23ONYsI)
 
-[**Installation Guide for iOS**](https://youtu.be/2L3fgoabkq0)
+[**Installation Support for iOS**](https://youtu.be/2L3fgoabkq0)
+
+[**Installation Support for Steam Deck & Linux**](https://youtu.be/xKyZ6F7r-54)
+
 ___
 Special Thanks
 
