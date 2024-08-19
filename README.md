@@ -21,6 +21,8 @@ Special Thanks
 ___
 **Showcases**
 
+2024.08.19 - [Dirty VHS](https://youtu.be/_yL135QNcBk) v1
+
 2024.08.09 - [Super Nintendo RF 100](https://youtu.be/vMSLqVgcDvc) v1
 
 2024.07.17 - [Sega Mega Drive RF 100](https://youtu.be/2_tv6p33RFE) v1
