@@ -21,6 +21,8 @@ Special Thanks
 ___
 **Showcases**
 
+2024.08.30 - [PC Engine & TurboGrafx-16 RGB 100](https://youtu.be/8BHVeXcPuU0) v1
+
 2024.08.19 - [Dirty VHS](https://youtu.be/_yL135QNcBk) v1
 
 2024.08.09 - [Super Nintendo RF 100](https://youtu.be/vMSLqVgcDvc) v1
@@ -29,7 +31,7 @@ ___
 
 2024.07.06 - [NES Composite 100](https://youtu.be/UcGNBYq6j3M) v1
 
-2024.06.20 - [PCEngine & TurboGrafx-16](https://youtu.be/hpiNKI8lRaY) v1
+2024.06.20 - [PC Engine & TurboGrafx-16](https://youtu.be/hpiNKI8lRaY) v1
 
 2024.05.31 - [Super Nintendo](https://youtu.be/edZ3drLP3yU) v2
 
