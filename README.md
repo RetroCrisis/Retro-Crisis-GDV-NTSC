@@ -22,6 +22,8 @@ Special Thanks
 ___
 **Showcases**
 
+2024.10.07 - [DOS](https://youtu.be/bK-JpvbqoEQ) v1
+
 2024.09.13 - [PC Engine & TurboGrafx-16 Composite 100](https://youtu.be/ImM1uekoJGk) v1
 
 2024.08.30 - [PC Engine & TurboGrafx-16 RGB 100](https://youtu.be/8BHVeXcPuU0) v1
