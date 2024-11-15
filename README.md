@@ -22,6 +22,8 @@ Special Thanks
 ___
 **Showcases**
 
+2024.11.15 - [PlayStation RGB 100](https://youtu.be/cyktna9FF08) v1
+
 2024.10.25 - [SNES RGB 100](https://youtu.be/36aEEHgL1m4) v1
 
 2024.10.07 - [DOS](https://youtu.be/bK-JpvbqoEQ) v1
