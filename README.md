@@ -22,6 +22,8 @@ Special Thanks
 ___
 **Showcases**
 
+2025.03.01 - [PS2](https://youtu.be/yMhFVJiiLiE) v1
+
 2024.12.21 - [Arcade](https://youtu.be/QRTPr7GeVHQ) v3
 
 2024.11.15 - [PlayStation RGB 100](https://youtu.be/cyktna9FF08) v1
