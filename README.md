@@ -14,11 +14,15 @@ Installation Guides:
 ___
 Special Thanks
 
-[Guest.R](https://forums.libretro.com/u/guest.r), 
-[CyberLab](https://forums.libretro.com/u/Cyber), 
-[Sonkun](https://forums.libretro.com/u/sonkun), 
-[HyperSpaceMadness](https://forums.libretro.com/u/HyperspaceMadness) & 
-[HunterK](https://forums.libretro.com/u/hunterk)
+[Guest.R](https://forums.libretro.com/u/guest.r)
+
+[CyberLab](https://forums.libretro.com/u/Cyber) - [interview](https://youtu.be/hu3mtPbfMTk)
+
+[Sonkun](https://forums.libretro.com/u/sonkun) 
+
+[HyperSpaceMadness](https://forums.libretro.com/u/HyperspaceMadness) - [interview](https://youtu.be/9jtpXtJbRps)
+
+[HunterK](https://forums.libretro.com/u/hunterk) - [interview](https://youtu.be/BQqyJcrgAOg)
 ___
 **Showcases**
 
