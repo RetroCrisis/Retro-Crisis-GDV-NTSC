@@ -26,6 +26,8 @@ Special Thanks
 ___
 **Showcases**
 
+2025.06.01 - [SMD RGB 100](https://youtu.be/6vsKERcpiBA) v1
+
 2025.05.05 - [NES RGB 100](https://youtu.be/AH7hB71TuHc) v1
 
 2025.03.08 - [PS2](https://youtu.be/aWdCJws9m8w) v2
