@@ -96,10 +96,10 @@ Use code RETROCRISIS10 on checkout. Applies to following products
 
 [Sega Saturn SAROO ODE Cartridge](https://www.retroupgrades.co.uk/product/saturn-saroo-ode-cartridge/)
 
-[NEC PC Engine RGB Add-on Board](https://www.retroupgrades.co.uk/product/nec-pc-engine-rgb-add-on-board/)
+[NEC PC Engine RGB Add-On Board](https://www.retroupgrades.co.uk/product/nec-pc-engine-rgb-add-on-board/)
 
-[Sony PlayStation RGB SCART Cable](https://www.retroupgrades.co.uk/product/ps1-rgb-scart-cable/)
+[Sony Playstation PS1 PSX RGB SCART Cable](https://www.retroupgrades.co.uk/product/ps1-rgb-scart-cable/)
 
-[Sega Mega Drive 2 RGB SCART cable](https://www.retroupgrades.co.uk/product/md2-scart/)
+[Sega Mega Drive/Genesis 2 RGB SCART Cable](https://www.retroupgrades.co.uk/product/md2-scart/)
 
-[Sega Saturn RGB SCART cable](https://www.retroupgrades.co.uk/product/saturn-rgb-scart-cable/)
+[Sega Saturn RGB SCART Cable](https://www.retroupgrades.co.uk/product/saturn-rgb-scart-cable/)
