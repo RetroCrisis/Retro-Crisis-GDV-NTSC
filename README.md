@@ -26,6 +26,8 @@ Special Thanks
 ___
 **Showcases**
 
+2025.08.25 - [Sega Saturn RF 100](https://youtu.be/h4ZyHhUJvsA) v1
+
 2025.08.01 - [Arcade RGB](https://youtu.be/ASX-ZGxLIFI) v1
 
 2025.06.01 - [SMD RGB 100](https://youtu.be/6vsKERcpiBA) v1
