@@ -92,7 +92,7 @@ ___
 ___
 **Discounts**
 
-Use code RETROCRISIS10 on checkout. Applies to following products
+Retro Upgrades has kindly provided viewers of the channel a discount code on selected products. Use code RETROCRISIS10 on checkout.
 
 [Sega Saturn SAROO ODE Cartridge](https://www.retroupgrades.co.uk/product/saturn-saroo-ode-cartridge/)
 
@@ -103,3 +103,5 @@ Use code RETROCRISIS10 on checkout. Applies to following products
 [Sega Mega Drive/Genesis 2 RGB SCART Cable](https://www.retroupgrades.co.uk/product/md2-scart/)
 
 [Sega Saturn RGB SCART Cable](https://www.retroupgrades.co.uk/product/saturn-rgb-scart-cable/)
+
+I make no financial gain from any purchases you make. The discount code is provided freely.
