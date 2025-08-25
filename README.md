@@ -89,3 +89,17 @@ ___
 2023.10.02 - [Sega Master System](https://youtu.be/sF7n8w9Jx-U) v1
 
 2023.09.22 - [Arcade](https://youtu.be/G42g23ONYsI) v1
+___
+**Discounts**
+
+Use code RETROCRISIS10 on checkout. Applies to following products
+
+[Sega Saturn SAROO ODE Cartridge](https://www.retroupgrades.co.uk/product/saturn-saroo-ode-cartridge/)
+
+[NEC PC Engine RGB Add-on Board](https://www.retroupgrades.co.uk/product/nec-pc-engine-rgb-add-on-board/)
+
+[Sony PlayStation RGB SCART Cable](https://www.retroupgrades.co.uk/product/ps1-rgb-scart-cable/)
+
+[Sega Mega Drive 2 RGB SCART cable](https://www.retroupgrades.co.uk/product/md2-scart/)
+
+[Sega Saturn RGB SCART cable](https://www.retroupgrades.co.uk/product/saturn-rgb-scart-cable/)
