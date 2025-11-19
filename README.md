@@ -26,6 +26,8 @@ Special Thanks
 ___
 **Showcases**
 
+2025.11.19 - [MSX](https://youtu.be/iAngrLHq894) v1
+
 2025.09.28 - [Sega Saturn RGB 100](https://youtu.be/rxivNFN25fU) v1
 
 2025.08.25 - [Sega Saturn RF 100](https://youtu.be/h4ZyHhUJvsA) v1
